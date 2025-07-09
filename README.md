@@ -5,4 +5,4 @@
 <li>npm run dev</li>
 <li>cd backend</li>
 <li>node --watch server.js</li>
-<b>we use mongodb in it</b>
+<b>mongodb used in it</b>
